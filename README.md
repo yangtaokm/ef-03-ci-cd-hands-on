@@ -1,1 +1,3 @@
-# ef-03-ci-cd
+# Engineering Fundamentals 04 - CI/CD
+
+This repository is used as part of a training.
