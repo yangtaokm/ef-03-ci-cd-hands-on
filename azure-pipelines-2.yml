@@ -15,3 +15,6 @@ steps:
 
 - script: |
 
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
